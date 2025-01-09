@@ -1,0 +1,2 @@
+# Data_platforms_Kanilla_Hedin_de24
+Learning data plattforms
